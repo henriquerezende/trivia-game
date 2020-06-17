@@ -30,7 +30,7 @@ const Feedback = () => {
     ? JSON.parse(localStorage.getItem('state'))
     : { player: { assertions: '', score: '' } };
   const { assertions, score } = state.player;
-  const answerTitle = assertions >= 3 ? 'Mandou bem!' : 'Podia ser melhor...';
+  const answerTitle = assertions >= 3 ? 'Awesome!' : 'Could be better...';
   return (
     <div className="row">
       <div className="col s4 offset-s4">

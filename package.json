@@ -1,6 +1,6 @@
 {
   "name": "trivia-game",
-  "homepage": "http://henriquerezende.github.io/trivia-game",
+  "homepage": "http://henriquerezende.github.io/trivia-game/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +30,7 @@
     "eject": "react-scripts eject",
     "test-coverage": "react-scripts test --coverage --watchAll=false",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

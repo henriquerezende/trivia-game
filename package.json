@@ -1,6 +1,6 @@
 {
-  "name": "trivia-test",
-  "homepage": "http://henriquerezende.github.io/trivia-redux-project",
+  "name": "trivia-game",
+  "homepage": "http://henriquerezende.github.io/trivia-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

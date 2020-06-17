@@ -14,9 +14,6 @@ export default function App() {
     <Router>
       <Header>
         <Switch>
-          <Route exact path="/">
-            <Login />
-          </Route>
           <Route path="/settings">
             <Settings />
           </Route>
@@ -28,6 +25,9 @@ export default function App() {
           </Route>
           <Route path="/feedback">
             <Feedback />
+          </Route>
+          <Route path="/">
+            <Login />
           </Route>
         </Switch>
         <Footer />

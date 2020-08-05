@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/trivia-game/static/css/main.d21a144e.chunk.css",
-    "main.js": "/trivia-game/static/js/main.44f4e0cb.chunk.js",
-    "main.js.map": "/trivia-game/static/js/main.44f4e0cb.chunk.js.map",
-    "runtime-main.js": "/trivia-game/static/js/runtime-main.9783c1d7.js",
-    "runtime-main.js.map": "/trivia-game/static/js/runtime-main.9783c1d7.js.map",
-    "static/js/2.880ab3d8.chunk.js": "/trivia-game/static/js/2.880ab3d8.chunk.js",
-    "static/js/2.880ab3d8.chunk.js.map": "/trivia-game/static/js/2.880ab3d8.chunk.js.map",
-    "index.html": "/trivia-game/index.html",
-    "precache-manifest.1fc0247399d2c699903212c6505979ea.js": "/trivia-game/precache-manifest.1fc0247399d2c699903212c6505979ea.js",
-    "service-worker.js": "/trivia-game/service-worker.js",
-    "static/css/main.d21a144e.chunk.css.map": "/trivia-game/static/css/main.d21a144e.chunk.css.map",
-    "static/js/2.880ab3d8.chunk.js.LICENSE": "/trivia-game/static/js/2.880ab3d8.chunk.js.LICENSE",
-    "static/media/trivia.png": "/trivia-game/static/media/trivia.466d153e.png"
+    "main.css": "/sd-03-project-trivia-react-redux-11/static/css/main.d21a144e.chunk.css",
+    "main.js": "/sd-03-project-trivia-react-redux-11/static/js/main.f85d548c.chunk.js",
+    "main.js.map": "/sd-03-project-trivia-react-redux-11/static/js/main.f85d548c.chunk.js.map",
+    "runtime-main.js": "/sd-03-project-trivia-react-redux-11/static/js/runtime-main.13d92137.js",
+    "runtime-main.js.map": "/sd-03-project-trivia-react-redux-11/static/js/runtime-main.13d92137.js.map",
+    "static/js/2.880ab3d8.chunk.js": "/sd-03-project-trivia-react-redux-11/static/js/2.880ab3d8.chunk.js",
+    "static/js/2.880ab3d8.chunk.js.map": "/sd-03-project-trivia-react-redux-11/static/js/2.880ab3d8.chunk.js.map",
+    "index.html": "/sd-03-project-trivia-react-redux-11/index.html",
+    "precache-manifest.c1e76d9b468bd2facf9c59277dfbc312.js": "/sd-03-project-trivia-react-redux-11/precache-manifest.c1e76d9b468bd2facf9c59277dfbc312.js",
+    "service-worker.js": "/sd-03-project-trivia-react-redux-11/service-worker.js",
+    "static/css/main.d21a144e.chunk.css.map": "/sd-03-project-trivia-react-redux-11/static/css/main.d21a144e.chunk.css.map",
+    "static/js/2.880ab3d8.chunk.js.LICENSE": "/sd-03-project-trivia-react-redux-11/static/js/2.880ab3d8.chunk.js.LICENSE",
+    "static/media/trivia.png": "/sd-03-project-trivia-react-redux-11/static/media/trivia.466d153e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9783c1d7.js",
+    "static/js/runtime-main.13d92137.js",
     "static/js/2.880ab3d8.chunk.js",
     "static/css/main.d21a144e.chunk.css",
-    "static/js/main.44f4e0cb.chunk.js"
+    "static/js/main.f85d548c.chunk.js"
   ]
 }
